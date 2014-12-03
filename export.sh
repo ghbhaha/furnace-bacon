@@ -14,7 +14,7 @@ else
 	export CROSS_COMPILE=/home/savoca/storage/toolchains/arm-eabi-4.7/bin/arm-eabi-
 fi
 kernel="furnace"
-version="1.1.0"
+version="1.1.2"
 rom="stock"
 variant="bacon"
 config="furnace_bacon_defconfig"
